@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_Add_Todo_Insurance</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7da09a8d-4a10-42d3-ac61-cbf80a19c454</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9793b789-0a4e-4415-b55b-f987d927c671</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e8e881b-803e-439a-9f23-2389a3168e7d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'remember 2'</defaultValue>
+      <description></description>
+      <id>9793b789-0a4e-4415-b55b-f987d927c671</id>
+      <masked>false</masked>
+      <name>judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'isi remember 2'</defaultValue>
+      <description></description>
+      <id>9e8e881b-803e-439a-9f23-2389a3168e7d</id>
+      <masked>false</masked>
+      <name>isi</name>
+   </variable>
+</TestCaseEntity>

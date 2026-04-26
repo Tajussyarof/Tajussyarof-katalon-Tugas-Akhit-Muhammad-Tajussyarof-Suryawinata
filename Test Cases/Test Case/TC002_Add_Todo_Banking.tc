@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_Add_Todo_Banking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e14b8995-5f13-4a89-96ab-c5152879bb62</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95467324-5520-4278-aa3d-bb1195646c7d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>416c47fa-aaff-4980-b842-abb30aebe000</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df648e48-8bed-464a-a1cd-533601dd897c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'remember 1'</defaultValue>
+      <description></description>
+      <id>95467324-5520-4278-aa3d-bb1195646c7d</id>
+      <masked>false</masked>
+      <name>judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'isi remember 1'</defaultValue>
+      <description></description>
+      <id>416c47fa-aaff-4980-b842-abb30aebe000</id>
+      <masked>false</masked>
+      <name>isi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Banking'</defaultValue>
+      <description></description>
+      <id>df648e48-8bed-464a-a1cd-533601dd897c</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>

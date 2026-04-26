@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SCN004_Add_Todo_Personal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>029c9d63-7ee1-48c7-944f-fa0fb47ed3e2</testCaseGuid>
+</TestCaseEntity>
