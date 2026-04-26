@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS001_Add_Todo_Banking</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>49791c8f-357f-4b4c-b7c6-384b7865fb1c</testSuiteGuid>
+   <testCaseLink>
+      <guid>a1094857-5e1d-4271-b2c6-adb084a2235c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Scenario/SCN002_Add_Todo_Banking</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>396f8627-47fa-4d4f-80ae-e1f71e9bb44e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>396f8627-47fa-4d4f-80ae-e1f71e9bb44e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>judul</value>
+         <variableId>95467324-5520-4278-aa3d-bb1195646c7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>396f8627-47fa-4d4f-80ae-e1f71e9bb44e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>isi</value>
+         <variableId>416c47fa-aaff-4980-b842-abb30aebe000</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>396f8627-47fa-4d4f-80ae-e1f71e9bb44e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>note</value>
+         <variableId>df648e48-8bed-464a-a1cd-533601dd897c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
